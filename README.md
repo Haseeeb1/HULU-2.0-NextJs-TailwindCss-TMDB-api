@@ -1,3 +1,8 @@
+## Deployed Website Link
+
+                         https://hulu-2-0-next-js-tailwind-css-tmdb-api.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
