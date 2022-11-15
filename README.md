@@ -1,5 +1,6 @@
 ## Deployed Website Link
 
+
                          https://hulu-2-0-next-js-tailwind-css-tmdb-api.vercel.app/
 
 
